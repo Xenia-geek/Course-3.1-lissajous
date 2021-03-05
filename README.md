@@ -1,3 +1,3 @@
 # Course-3.1-lissajous
-Optional
+Optional \n
 Unzipp file 2.rar at the 2\Debug
