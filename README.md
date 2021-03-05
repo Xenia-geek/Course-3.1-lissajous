@@ -1,2 +1,2 @@
 # Course-3.1-lissajous
-Unzip file 2.rar at the 2\Debug
+Unzip the file 2.rar in this folder: \2\Debug and this: \Debug
